@@ -14,3 +14,27 @@
 .price{
     color:rgb(146, 10, 10);
 }
+.cat1{
+    background-color: orange;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: orchid;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: blue;
+    border-radius: 10px;
+}
+.row{
+    align-items: center;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+}
+.category h1{
+    color: white;
+}
+.category img{
+    width: 100px;
+}
